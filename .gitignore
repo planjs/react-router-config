@@ -1,0 +1,8 @@
+.idea/
+*-error.log
+node_modules/
+/coverage/
+/es/
+/lib/
+/typings
+/dist
